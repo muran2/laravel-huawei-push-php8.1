@@ -1,21 +1,19 @@
 {
-    "name": "n2boost/laravel-huawei-push",
-    "description": "Huawei Push SDK for Laravel",
+    "name": "muran2/laravel-huawei-push-php81-lara9",
+    "description": "Huawei Push SDK for Laravel 9 and php 8.1",
     "keywords": [
         "n2boost",
         "huawei",
         "laravel-huawei-push"
     ],
     "type": "library",
-    "homepage": "https://github.com/n2boost/laravel-huawei-push",
+    "homepage": "https://github.com/muran2/laravel-huawei-push-php8.1",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "lihao",
-            "email": "lihao@n2boost.com",
-            "homepage": "https://www.n2boost.com",
-            "role": "Developer"
+            "name": "muran",
+            "email": "ab.muranov@gmail.com"
         }
     ],
     "require": {
